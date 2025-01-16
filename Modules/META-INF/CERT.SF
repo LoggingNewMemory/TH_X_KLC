@@ -1,0 +1,38 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: uNmpIoj5TJpvC9iklkrrZzYrlwM=
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: pVUJ9D5th6d2sD8aeNp5zhiBUcs=
+
+Name: module.prop
+SHA1-Digest: kY1C5U8TUwnawELV+Y3nCRa0o0A=
+
+Name: install.sh
+SHA1-Digest: 3v1YnNlIXZu5e9SUuYHOltt3QBw=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: CXSXGL/x3NMExH+RriLh4S56PHQ=
+
+Name: system/system_ext/etc/permissions/privapp-permissions-app.lawnchai
+ r.xml
+SHA1-Digest: spxZpUJSy1rFZgTunqAuy7vAg0I=
+
+Name: common/system.prop
+SHA1-Digest: BGnAPDWuiuOd9TwvL0QA5zyTfsg=
+
+Name: system/product/overlay/QuickSwitchOverlay/QuickSwitchOverlay.apk
+SHA1-Digest: dd+yBtfoL/I+K+h1lgu/H/ort3U=
+
+Name: system/system_ext/priv-app/Lawnicons/Lawnicons.apk
+SHA1-Digest: lD0fgXT3OAus4bQzAHKYgwx1m1k=
+
+Name: system/system_ext/etc/sysconfig/app.lawnchair-hiddenapi-package-wh
+ itelist.xml
+SHA1-Digest: aeAsBMATVMCgpBn40cYQu+Zr3es=
+
+Name: common/service.sh
+SHA1-Digest: n+tBUJxQlAJp/jV4j1eXKB4fUzQ=
+
+Name: system/system_ext/priv-app/Lawnchair/Lawnchair.apk
+SHA1-Digest: 28zv9Ybb27XbarYJKVAFzzZKb44=
+

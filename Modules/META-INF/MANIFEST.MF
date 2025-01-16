@@ -1,0 +1,38 @@
+Manifest-Version: 1.0
+Created-By: MiXplorer
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: Lzl1y1cC6TvXytLj6okU81/P8AA=
+
+Name: module.prop
+SHA1-Digest: lm0ORLdk8pxUg2+J1egJKrMFnIY=
+
+Name: install.sh
+SHA1-Digest: cSpLSFoboLTa8gE7sSamOlKU4wI=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: gwNqxhx2p3JO2evhloKQQ1QJwhE=
+
+Name: system/system_ext/etc/permissions/privapp-permissions-app.lawnchai
+ r.xml
+SHA1-Digest: /LY19xRixJuaqOWF7Ms4Y+UfwAA=
+
+Name: common/system.prop
+SHA1-Digest: pR63P6yUVVXA+YotSZMPCkxwnsM=
+
+Name: system/product/overlay/QuickSwitchOverlay/QuickSwitchOverlay.apk
+SHA1-Digest: 4ZfqtlMfo59o5Qj/Ce+3vye2COw=
+
+Name: system/system_ext/priv-app/Lawnicons/Lawnicons.apk
+SHA1-Digest: uJRMQewOk/+qGsqVDPtibHRe+d0=
+
+Name: system/system_ext/etc/sysconfig/app.lawnchair-hiddenapi-package-wh
+ itelist.xml
+SHA1-Digest: HPHZBXiOOK2Arru5kW5GLGBm6/k=
+
+Name: common/service.sh
+SHA1-Digest: 4NaKEXxVMcVQaH+lhkSAYPKT6E4=
+
+Name: system/system_ext/priv-app/Lawnchair/Lawnchair.apk
+SHA1-Digest: 6Oc/uM3EX462u0dJ9MeOmFbKg6c=
+
